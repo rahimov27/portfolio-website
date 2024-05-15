@@ -551,7 +551,7 @@ h5,h4{
 
 @media screen and (max-width: 1000px){
     .section-3-card-column-subtitle {
-        font-size: 14px;
+        font-size: 12px;
     }
     .home-page-column {
         margin-top: 188px;
@@ -602,19 +602,156 @@ h5,h4{
         margin-top: 20px;
         border-radius: 56px;
         font-size: 11px;
-        padding: 14px 24px;
+        padding: 10px 24px;
     }
     .section-2-subtitle {
-        font-size: 11px;
+        font-size: 14px;
     }
     
     .section-3-subtitle{
-        font-size: 11px;
+        font-size: 14px;
     }
     .section-4-subtitle{
-        font-size: 11px;
+        font-size: 14px;
     }
     .section-5-subtitle{
+        font-size: 14px;
+    }
+    .section-2-content-btn {
+        margin-top: 40px;
+        border-radius: 100px;
+        border: 1px solid #1F1F1F;
+        display: flex;
+        align-items: center;
+        padding: 10px 15px;
+    }
+    .section-2-content-btn-text {
+        padding-right: 30px;
+        color: #ffffff;
         font-size: 11px;
     }
+    .section-3-card-column{
+        padding: 25px;
+    }
+    .section-3-card-column-btn {
+        margin-top: 30px;
+        border-radius: 74px;
+        border: 1px solid gray;
+        padding: 10px 24px;
+    }
+    .section-4-description {
+        color: #8C8C8C;
+        margin-top: 24px;
+        font-size: 11px;
+    }
+    .section-4-card-title {
+        font-size: 20px;
+        text-align: left;
+        color: white;
+        margin-top: 50px;
+    }
+    .section-4-category{
+        font-size: 12px;
+    }
+    .section-4-date{
+        font-size: 12px;
+    }
+    .section-4-card-btn {
+        display: flex;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: -100px;
+        padding: 10px 24px;
+        border: 1px solid #26262644;
+        border-radius: 74px;
+        width: fit-content;
+        font-size: 12px;
+        color: white;
+        background-color: #1a1a1aab;
+    }
+    .section-3-card-column-img{
+        font-size: 12px;
+    }
+    .section-5-card-column {
+        margin: 20px;
+    }
+    
+    .section-5-card-column {
+        width: 90%;
+        height: fit-content;
+        border: 1px solid #262626;
+        border-radius: 20px;
+        padding: 20px;
+        background-color: #1a1a1a29;
+        flex-shrink: 0;
+        display: inline-block;
+        animation: scroll 20s linear infinite;
+    }
+    .section-5-card-row-text {
+        margin-top: 20px;
+        font-size: 12px;
+        color: white;
+        padding-bottom: 15px;
+        font-weight: 200;
+    }
+    .section-5-card-column img {
+        width: 45px;
+        height: 45px;
+        padding: 14px;
+        border: 1px solid #262626;
+        border-radius: 8px;
+    }
+    h5,h4{
+        font-size: 12px;
+    }
+    .footer-text-column {
+        color: #808080;
+        margin: 0px;
+    }
+    .social-row img {
+        padding: 14px;
+        border-radius: 66px;
+        border: 1px solid #262626;
+    }
+    .section-3-avatar {
+        width: 35px;
+        padding: 15px;
+        border: 4px solid #333333;
+        border-radius: 100px;
+    }
+    .section-3-card-column-title {
+        margin-top: 50px;
+        text-align: center;
+        font-size: 22px;
+        color: white;
+    }
+    .circle-avatar-img {
+        padding: 15px;
+        border-radius: 100%;
+        border: 5px solid #4D4D4D;
+        width: 30px;
+    }
+    .section-2-content-subtitle {
+        color: #8C8C8C;
+        font-size: 11px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .section-2-content-title {
+        color: #ffffff;
+        font-size: 18px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    .section-2-content-btn-icon img{
+        width: 30px;
+    }
+    .section-2-content-btn-icon {
+        background-color: #1A1A1A;
+        padding: 5px 20px;
+        border-radius: 135px;
+        display: flex;
+    }
+
 }
