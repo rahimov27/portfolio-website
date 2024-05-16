@@ -586,6 +586,16 @@ h5,h4{
     .home-page-subtitle{
         font-size: 11px;
     }
+    .home-page-column{
+        margin-top: 100px;
+        width: 95%;
+    }
+    .section-2-title{
+        margin-top: 0px;
+    }
+    .row-line{
+        display: none;
+    }
     .home-page-title {
         font-size: 42px;
         color: #666666;
